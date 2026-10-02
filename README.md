@@ -37,3 +37,9 @@ python FoldSafe_HybridMDA_Seed2027.py `
 ## 解释限制
 
 结果使用 1:1 平衡伪负样本和 pair-wise transductive CV。未知关联并非经实验确认的真阴性；该结果不能直接外推到“全部未知对”或完全未见药物/微生物的冷启动任务。代码以真实运行结果为准，不人为保证 0.98。
+
+## DOI
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23099723.svg)](https://doi.org/10.5281/zenodo.23099723)
+
+Archived release (v1.0.0): https://doi.org/10.5281/zenodo.23099723
